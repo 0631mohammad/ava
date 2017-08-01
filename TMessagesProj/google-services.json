@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "103542725949",
+    "firebase_url": "https://ccapp-166110.firebaseio.com",
+    "project_id": "ccapp-166110",
+    "storage_bucket": "ccapp-166110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103542725949:android:f6afd7b67eae3860",
+        "android_client_info": {
+          "package_name": "ir.avageram.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103542725949-ti6f9sd9tuquk84s11kc0q9v4lqe50q7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.avageram.com",
+            "certificate_hash": "f70a2ca66f39e2b0609cc3b354a0c58ef5df9579"
+          }
+        },
+        {
+          "client_id": "103542725949-086q227efrvafap8asimni5rc7pk8gee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzQWokHbRLJUrX43YXUz7T2x9KoelSqlg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103542725949-086q227efrvafap8asimni5rc7pk8gee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
